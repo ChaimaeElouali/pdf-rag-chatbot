@@ -9,7 +9,7 @@
   <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/></a>
   <a href="https://faiss.ai/"><img src="https://img.shields.io/badge/FAISS-vector%20search-0066FF?style=flat-square" alt="FAISS"/></a>
   <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
-  <a href="https://pdf-rag-chatbot-gzerzsccqzcnuf4p7vdaj2.streamlit.app"><img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live Demo"/></a>
+  <a href="https://pdf-rag-chatbot-gzerzsccqzcnuf4p7vdaj2.streamlit.app"><img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live Demo"/></a>
 </p>
 
 <p align="center">
